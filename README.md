@@ -2,7 +2,7 @@
 
 Code accompanying Schmidt & Garroway (2021) The population genetics of urban and rural amphibians in North America
 
-Data:  
+Data: https://doi.org/10.5061/dryad.qv9s4mwf0  
 amph_data.csv: final dataset  
   
 Columns:
