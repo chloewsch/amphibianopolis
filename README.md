@@ -2,8 +2,10 @@
 
 Code accompanying Schmidt & Garroway (2021) The population genetics of urban and rural amphibians in North America
 
-Data:
-amph_data.csv: final dataset
+Data:  
+amph_data.csv: final dataset  
+  
+Columns:
 - pop: unique site identifier	
 - species: formatted as Genus_species	
 - author: author of original data source (see Table S2 for full list of references)	
@@ -32,5 +34,5 @@ R code:
 - Bayesian GLMMs for all variables across scales
 - plots
 
-3. 3_phylo_regressions
+3. 3_phylo_regressions.R
 - models and plots for phylogenetic regressions (main text models only)
